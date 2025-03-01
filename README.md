@@ -9,6 +9,9 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)](https://plotly.com/)
 
+
+![image](https://github.com/user-attachments/assets/86677fee-c766-40a8-b47a-8f49e2563150)
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
