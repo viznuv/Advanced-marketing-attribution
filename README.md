@@ -1,6 +1,5 @@
 # Advanced Marketing Attribution System
 
-![Marketing Attribution Banner](./images/marketing_attribution_banner.png)
 
 *A comprehensive marketing attribution system that implements multiple models from traditional to cutting-edge approaches, with data ingestion, processing, visualization, and reporting capabilities.*
 
